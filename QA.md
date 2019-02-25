@@ -1,6 +1,7 @@
 #iGuard
 
 Frequently Asked Questions (FAQ)
+
 (0) How do I use iGuard?
 
 Enable the iGuard firewall using the switch in iGuard's action bar Allow (greenish*) or deny (reddish*) Wi-Fi or mobile internet access using the icons next to an application name in iGuard's applications list You can use Settings > Defaults to change from block/blacklist mode (disable Block Wi-Fi and Block mobile, and then block unwanted applications in iGuard's applications list) to allow/whitelist mode (enable Block Wi-Fi and Block mobile, and then allow desired applications in iGuard's applications list).
